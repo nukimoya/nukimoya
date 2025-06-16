@@ -1,27 +1,25 @@
 <h1 align="center">Hi 👋, I'm Samuel Adelakun</h1>
 <h3 align="center">A passionate full-stack developer from San Ramon, CA</h3>
 
-<p align="left">
-  <a href="https://twitter.com/ayothemsft" target="blank">
-    <img src="https://img.shields.io/twitter/follow/ayothemsft?logo=twitter&style=for-the-badge" alt="ayothemsft" />
-  </a>
-</p>
+<p align="left"> <a href="https://twitter.com/ayothemsft" target="blank"><img src="https://img.shields.io/twitter/follow/ayothemsft?logo=twitter&style=for-the-badge" alt="ayothemsft" /></a> </p>
 
-<p align="left">
-  I'm currently working on an AI-powered career platform called <a href="https://github.com/nukimoya/futureforge">FutureForge</a>. <br />
-  I'm learning about cloud technologies like GCP and AWS to expand my backend and DevOps skills. <br />
-  You can explore all my projects on my <a href="https://samuel-dev-rosy.vercel.app/">portfolio site</a>. <br />
-  Feel free to ask me anything about React, Express, or JavaScript — I’m always happy to help. <br />
-  You can reach me directly via email at <strong>sayomikun123@gmail.com</strong>. <br />
-  To learn more about my work experience, check out my <a href="https://samuel-dev-rosy.vercel.app/AYOMIKUN%20ADELAKUN%20Resume%20-%20Copy%20-%20Copy-8.pdf">resume</a>. <br />
-  Fun fact: I think I’m funny 😄.
-</p>
+- 🔭 I’m currently working on [FutureForge](https://github.com/nukimoya/futureforge)
+
+- 🌱 I’m currently learning **GCP and AWS**
+
+- 👨‍💻 All of my projects are available at [https://samuel-dev-rosy.vercel.app/](https://samuel-dev-rosy.vercel.app/)
+
+- 💬 Ask me about **react, express and javascript**
+
+- 📫 How to reach me **sayomikun123@gmail.com**
+
+- 📄 Know about my experiences [https://samuel-dev-rosy.vercel.app/AYOMIKUN%20ADELAKUN%20Resume%20-%20Copy%20-%20Copy-8.pdf](https://samuel-dev-rosy.vercel.app/AYOMIKUN%20ADELAKUN%20Resume%20-%20Copy%20-%20Copy-8.pdf)
+
+- ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/ayothemsft" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayothemsft" height="30" width="40" />
-  </a>
+<a href="https://twitter.com/ayothemsft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayothemsft" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
