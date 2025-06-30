@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sayomikun123@gmail.com**
 
-- 📄 Know about my experiences [https://samuel-dev-rosy.vercel.app/AYOMIKUN%20ADELAKUN%20Resume%20-%20Copy%20-%20Copy-8.pdf](https://samuel-dev-rosy.vercel.app/AYOMIKUN%20ADELAKUN%20Resume%20-%20Copy%20-%20Copy-8.pdf)
+- 📄 Know about my experiences [Samuel Adelakun.pdf](https://samuel-dev-rosy.vercel.app/AYOMIKUN%20ADELAKUN%20Resume%20-%20Copy%20-%20Copy-8.pdf)
 
 - ⚡ Fun fact **I think I am funny.**
 
